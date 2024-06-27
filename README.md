@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI ethics frameworks, Generative AI, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://xlgraceli.github.io/graceli/](https://xlgraceli.github.io/graceli/)
+- 👨‍💻 All of my projects are available at <a href="https://xlgraceli.github.io/graceli/" target="_blank">https://xlgraceli.github.io/graceli/</a>
 
 - 💬 Ask me about **Information Governance**
 
