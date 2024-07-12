@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlgraceli&label=Profile%20views&color=0e75b6&style=flat" alt="xlgraceli" /> </p>
 
-- 🌱 I’m currently learning **AI ethics frameworks, Generative AI, Machine Learning**
+- 🌱 I’m currently learning **Backend, Generative AI, Machine Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://xlgraceli.github.io/graceli/" target="_blank">https://xlgraceli.github.io/graceli/</a>
 
