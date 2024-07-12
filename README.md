@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://xlgraceli.github.io/graceli/" target="_blank">https://xlgraceli.github.io/graceli/</a>
 
-- 💬 Ask me about **Information Governance**
-
 - 📫 How to reach me **xlgraceli@gmail.com**
 
 <hr/>
