@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grace Li</h1>
 <h3 align="center">An aspiring Software Developer with strong analytical and programming skills</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xlgraceli&label=Profile%20views&color=0e75b6&style=flat" alt="xlgraceli" /> </p>
+<hr/>
 
 - 🌱 I’m currently learning **Backend, Generative AI, Machine Learning**
 
