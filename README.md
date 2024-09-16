@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Software Developer with strong analytical and programming skills</h3>
 <hr/>
 
-- 🌱 I’m currently learning **Full Stack, Generative AI, Machine Learning**
+- 🌱 I’m currently learning **ROS, Full Stack, Machine Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://xlgraceli.github.io/graceli/" target="_blank">https://xlgraceli.github.io/graceli/</a>
 
